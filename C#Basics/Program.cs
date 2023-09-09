@@ -1,6 +1,9 @@
 ﻿// See https://aka.ms/new-console-template for more information
 
+using System.Runtime.CompilerServices;
+
 Console.WriteLine("----------------------------- Section one ------------------------------------");
+Console.WriteLine("");
 
 // common date types in C#
 
@@ -23,6 +26,25 @@ string stringValue = "say hi";
 Console.WriteLine(@$"This is an integer: {integer}. This is double: {floatValue}. This is float: {floatValue2}.
 This is long: {longValue}. This is bool: {boolValue}. This is char: {charValue}. This is string: {stringValue}");
 
+// if else and for loop and while loop is same as java
+//! C# not have do while loop
+
+Console.WriteLine("----------------------------- Section Two ------------------------------------");
+Console.WriteLine("");
+
+//! functions
+/* C# has four modifiers: 
+public 
+private
+protected
+internal 
+*/
+
+messageFun();
+
+void messageFun(){
+    Console.WriteLine("This is a function called\n");
+}
 
 
 
