@@ -1,0 +1,14 @@
+D:\zCodeAll\C#Code\C#Basics2\bin\Debug\net7.0\C#Basics2.exe
+D:\zCodeAll\C#Code\C#Basics2\bin\Debug\net7.0\C#Basics2.deps.json
+D:\zCodeAll\C#Code\C#Basics2\bin\Debug\net7.0\C#Basics2.runtimeconfig.json
+D:\zCodeAll\C#Code\C#Basics2\bin\Debug\net7.0\C#Basics2.dll
+D:\zCodeAll\C#Code\C#Basics2\bin\Debug\net7.0\C#Basics2.pdb
+D:\zCodeAll\C#Code\C#Basics2\obj\Debug\net7.0\C#Basics2.GeneratedMSBuildEditorConfig.editorconfig
+D:\zCodeAll\C#Code\C#Basics2\obj\Debug\net7.0\C#Basics2.AssemblyInfoInputs.cache
+D:\zCodeAll\C#Code\C#Basics2\obj\Debug\net7.0\C#Basics2.AssemblyInfo.cs
+D:\zCodeAll\C#Code\C#Basics2\obj\Debug\net7.0\C#Basics2.csproj.CoreCompileInputs.cache
+D:\zCodeAll\C#Code\C#Basics2\obj\Debug\net7.0\C#Basics2.dll
+D:\zCodeAll\C#Code\C#Basics2\obj\Debug\net7.0\refint\C#Basics2.dll
+D:\zCodeAll\C#Code\C#Basics2\obj\Debug\net7.0\C#Basics2.pdb
+D:\zCodeAll\C#Code\C#Basics2\obj\Debug\net7.0\C#Basics2.genruntimeconfig.cache
+D:\zCodeAll\C#Code\C#Basics2\obj\Debug\net7.0\ref\C#Basics2.dll

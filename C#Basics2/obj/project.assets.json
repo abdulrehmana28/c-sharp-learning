@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\zCodeAll\\C#Code\\C#Basics\\C#Basics.csproj",
-      "projectName": "C#Basics",
-      "projectPath": "D:\\zCodeAll\\C#Code\\C#Basics\\C#Basics.csproj",
+      "projectUniqueName": "D:\\zCodeAll\\C#Code\\C#Basics2\\C#Basics2.csproj",
+      "projectName": "C#Basics2",
+      "projectPath": "D:\\zCodeAll\\C#Code\\C#Basics2\\C#Basics2.csproj",
       "packagesPath": "C:\\Users\\games\\.nuget\\packages\\",
-      "outputPath": "D:\\zCodeAll\\C#Code\\C#Basics\\obj\\",
+      "outputPath": "D:\\zCodeAll\\C#Code\\C#Basics2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\games\\AppData\\Roaming\\NuGet\\NuGet.Config"
