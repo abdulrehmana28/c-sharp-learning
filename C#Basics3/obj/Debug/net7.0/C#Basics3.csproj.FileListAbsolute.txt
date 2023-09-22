@@ -1,0 +1,14 @@
+D:\zCodeAll\C#Code\C#Basics3\bin\Debug\net7.0\C#Basics3.exe
+D:\zCodeAll\C#Code\C#Basics3\bin\Debug\net7.0\C#Basics3.deps.json
+D:\zCodeAll\C#Code\C#Basics3\bin\Debug\net7.0\C#Basics3.runtimeconfig.json
+D:\zCodeAll\C#Code\C#Basics3\bin\Debug\net7.0\C#Basics3.dll
+D:\zCodeAll\C#Code\C#Basics3\bin\Debug\net7.0\C#Basics3.pdb
+D:\zCodeAll\C#Code\C#Basics3\obj\Debug\net7.0\C#Basics3.GeneratedMSBuildEditorConfig.editorconfig
+D:\zCodeAll\C#Code\C#Basics3\obj\Debug\net7.0\C#Basics3.AssemblyInfoInputs.cache
+D:\zCodeAll\C#Code\C#Basics3\obj\Debug\net7.0\C#Basics3.AssemblyInfo.cs
+D:\zCodeAll\C#Code\C#Basics3\obj\Debug\net7.0\C#Basics3.csproj.CoreCompileInputs.cache
+D:\zCodeAll\C#Code\C#Basics3\obj\Debug\net7.0\C#Basics3.dll
+D:\zCodeAll\C#Code\C#Basics3\obj\Debug\net7.0\refint\C#Basics3.dll
+D:\zCodeAll\C#Code\C#Basics3\obj\Debug\net7.0\C#Basics3.pdb
+D:\zCodeAll\C#Code\C#Basics3\obj\Debug\net7.0\C#Basics3.genruntimeconfig.cache
+D:\zCodeAll\C#Code\C#Basics3\obj\Debug\net7.0\ref\C#Basics3.dll

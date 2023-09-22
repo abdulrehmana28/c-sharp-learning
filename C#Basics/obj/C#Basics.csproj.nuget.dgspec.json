@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "d:\\zCodeAll\\C#Code\\C#Basics\\C#Basics.csproj": {}
+    "D:\\zCodeAll\\C#Code\\C#Basics\\C#Basics.csproj": {}
   },
   "projects": {
-    "d:\\zCodeAll\\C#Code\\C#Basics\\C#Basics.csproj": {
+    "D:\\zCodeAll\\C#Code\\C#Basics\\C#Basics.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\zCodeAll\\C#Code\\C#Basics\\C#Basics.csproj",
+        "projectUniqueName": "D:\\zCodeAll\\C#Code\\C#Basics\\C#Basics.csproj",
         "projectName": "C#Basics",
-        "projectPath": "d:\\zCodeAll\\C#Code\\C#Basics\\C#Basics.csproj",
+        "projectPath": "D:\\zCodeAll\\C#Code\\C#Basics\\C#Basics.csproj",
         "packagesPath": "C:\\Users\\games\\.nuget\\packages\\",
-        "outputPath": "d:\\zCodeAll\\C#Code\\C#Basics\\obj\\",
+        "outputPath": "D:\\zCodeAll\\C#Code\\C#Basics\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\games\\AppData\\Roaming\\NuGet\\NuGet.Config"
